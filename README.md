@@ -1,2 +1,2 @@
 # cloudformation-cross-account
-a template for enabling cross account access via external ids
+Launch this template in customer account for enabling cross account access via external ids.
